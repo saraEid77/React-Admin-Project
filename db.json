@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the post body ",
+      "publishedAT": "1-10-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAT": "1-10-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body",
+      "publishedAT": "1-10-2020"
+    },
+    {
+      "id": "4",
+      "body": "this is sara",
+      "publishedAT": "2020-10-08"
+    },
+    {
+      "title": "sara",
+      "body": "a/nl/ngfbn/f",
+      "publishedAT": "2021-01-07",
+      "id": "x5jQNaZ"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "sara eid",
+      "email": "sara@gmail.com"
+    }
+  ]
+}
